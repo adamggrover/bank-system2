@@ -10,7 +10,7 @@ namespace bank_system2
         private void button1_Click(object sender, EventArgs e)
         {
             string sPreDefinedUsername = "AGrover";
-            string sPreDefinedPassword = "Turkey";
+            string sPreDefinedPassword = "turkey";
 
             bool bUserNameCheck = false;
             bool bPasswordCheck = false;
